@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate computer science student with a strong interest in software development, machine learning, and problem-solving. I enjoy coding, participating in coding competitions, and contributing to open-source projects. Outside of tech, I organize gaming events and lead discussions in the Legends of Tomorrow community. I'm open to collaboration and tech-related discussions.
+I'm a passionate computer science student with a strong interest in software development, machine learning, and problem-solving. I enjoy coding, participating in coding competitions. Outside of tech, I organize gaming events and lead discussions in the Legends of Tomorrow community. I'm open to collaboration and tech-related discussions.
 
 
 - 🔭 I’m currently working on [bhartiya nyay sanhita](https://github.com/ANI-IN/bhartiya-nyay-sanhita)
