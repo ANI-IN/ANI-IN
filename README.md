@@ -3,7 +3,7 @@ I'm a passionate computer science student with a strong interest in software dev
 
 
 - 🔭 I’m currently working on [bhartiya nyay sanhita](https://github.com/ANI-IN/bhartiya-nyay-sanhita)
-👯 I’m looking to collaborate on: Anything cool!
+- 👯 I’m looking to collaborate on: Anything cool!
 - 📫 How to reach me **animesh.kcm@gmail.com**
 
 
