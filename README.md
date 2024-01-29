@@ -9,7 +9,9 @@ I'm a passionate computer science student with a strong interest in software dev
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/ani-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ani-in" height="30" width="40" /></a>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Ddf6KRF ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/animeshkcm) 
+<a href="https://www.leetcode.com/ani-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ani-in" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/invite/Ddf6KRF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/Ddf6KRF" height="30" width="40" /></a>
+<a href="https://twitter.com/animeshkcm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="animeshkcm" height="30" width="40" /></a>
 
 
 # 💻 Tech Stack:
