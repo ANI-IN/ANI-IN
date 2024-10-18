@@ -1,4 +1,6 @@
  # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Animesh Kumar</h1>
+<h3 align="center">I'm 𝗔𝗻𝗶𝗺𝗲𝘀𝗵 𝗞𝘂𝗺𝗮𝗿, a software developer with a strong foundation in 𝗳𝘂𝗹𝗹-𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗽𝗿𝗼𝗯𝗹𝗲𝗺-𝘀𝗼𝗹𝘃𝗶𝗻𝗴, and 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗺𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁. I’ve recently graduated with a Bachelor’s degree in Computer Science (𝗚𝗣𝗔: 𝟴.𝟵𝟵/𝟭𝟬) from Graphic Era University, Dehradun.</h3>
 🔭 I’m currently working on [𝗣𝗮𝘆𝗧𝗠-𝗜𝗻𝘀𝗽𝗶𝗿𝗲𝗱 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻](https://github.com/ANI-IN/Assignment-Submission-Portal)
 
 
